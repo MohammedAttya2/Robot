@@ -1,1 +1,1 @@
-Usage: php index.php Command
+Usage: php index.php [Command]
