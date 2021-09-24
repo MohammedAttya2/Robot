@@ -1,0 +1,18 @@
+{
+    "name": "mohammedattya/robot",
+    "description": "An application that parses Robot instructions and generates an output with final position for each instruction set",
+    "type": "project",
+    "require-dev": {},
+    "authors": [
+        {
+            "name": "Mohammed Attya",
+            "email": "mohammed.attya25@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
